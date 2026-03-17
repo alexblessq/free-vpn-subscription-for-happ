@@ -1,12 +1,6 @@
-
-
-
-
-
-
 Subscription:
 
-[https://clck.ru/3Sb35k](https://gog.su/alexblessq)
+https://gog.su/alexblessq
 
 
 QR:
