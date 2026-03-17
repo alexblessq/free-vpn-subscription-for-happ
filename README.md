@@ -6,7 +6,7 @@
 
 Subscription:
 
-https://clck.ru/3Sb35k
+[https://clck.ru/3Sb35k](https://gog.su/alexblessq)
 
 
 QR:
