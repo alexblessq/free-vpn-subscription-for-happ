@@ -10,12 +10,3 @@ QR:
 
 
 
-[
-    {
-        "short-id": "<alexblessq>",
-        "short-url": "https://github.com/alexblessq",
-        "original-url": "https://raw.githubusercontent.com/alexblessq/free-vpn-subscription-for-happ/refs/heads/main/subscription-keys",
-        "type": "<public"
-    },
-    ...
-]
