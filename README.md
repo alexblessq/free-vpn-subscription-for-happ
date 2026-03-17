@@ -11,4 +11,5 @@ https://clck.ru/3Sb35k
 
 QR:
 
-<img width="256" height="256" alt="9f8161f36b2fc103da48821a35a102b0" src="https://github.com/user-attachments/assets/5f4bd23e-8b47-4f37-8106-634dca529586" />
+<img width="256" height="256" alt="ad81796bc4f6f58173619989ba76e7f2" src="https://github.com/user-attachments/assets/fcac3ffc-d924-4f5c-bd49-1c8531b1e484" />
+
