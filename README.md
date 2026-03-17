@@ -5,5 +5,6 @@ https://gog.su/alexblessq
 
 QR:
 
-<img width="256" height="256" alt="ad81796bc4f6f58173619989ba76e7f2" src="https://github.com/user-attachments/assets/fcac3ffc-d924-4f5c-bd49-1c8531b1e484" />
+<img width="250" height="250" alt="81cfad301ee96698ca53e17d76a07ade" src="https://github.com/user-attachments/assets/10d7e4ab-5e9f-48ce-baa0-81149c8798a3" />
+
 
