@@ -2,7 +2,11 @@ vless://9c51167b-4bc2-408f-9121-bc1ef313478e@147.45.162.209:56721?flow=xtls-rprx
 
 vless://b78bd037-8dae-4b63-9d01-97117d502588@144.124.248.181:31310/?type=tcp&encryption=none&security=reality&pbk=_DcYJZrSUx3ltgXtLN1uWbQyurZ2G0okuMYvOm1j9Ss&fp=chrome&sni=aws.amazon.com&sid=d80997ce8c121d7f&spx=%2F#🇳🇱
 
-vless://bf432795-1383-46e5-8823-d638b956cabe@144.31.233.146:43361/?type=tcp&encryption=none&security=reality&pbk=OVkz4f4FnObOQT4vz8SqpiuzFDmTjYH4OZk2wIbjgCk&fp=chrome&sni=www.nvidia.com&sid=55ba93eb8c&spx=%2F#🇳🇱
+vless://513d2421-7ab5-49c1-b300-c71c3525ce26@64.188.106.201:16579/?type=tcp&encryption=none&security=reality&pbk=H0LmyOHq4pLUS06_gdmP4SjvrwsLTcBO3Y5K-T-hIAA&fp=chrome&sni=www.intel.com&sid=6d7a&spx=%2F#🇩🇪PremiumFrankfurt1_1Gbps
 
-vless://0a9b1f4a-d3be-4eee-a6f5-5e063b1e2e5b@150.241.78.33:41058/?type=tcp&encryption=none&security=reality&pbk=_QDwxrXkq5boyi45_1cGxgTezBMzKk3-sLnrB4AeWnk&fp=chrome&sni=aws.amazon.com&sid=afd81cdc37d888&spx=%2F#🇩🇪
+vless://7a0ae662-eee7-44c0-8998-d575870bd749@64.188.106.202:38765/?type=tcp&encryption=none&security=reality&pbk=fUyUwpKV_0yleQhE_dZF0TuD1lw3BJ-Jo9M6iOaEFEY&fp=chrome&sni=aws.amazon.com&sid=d789a31a7a7014&spx=%2F#🇩🇪PremiumFrankfurt2_1Gbps
+
+vless://60c63b41-63f3-4602-b9f3-9ee2e1369447@64.188.106.203:59851/?type=tcp&encryption=none&security=reality&pbk=DRYYaJ_Ne7bp2CZgJrYMuBy3o835I0s6p-H_HjTsWRc&fp=chrome&sni=www.icloud.com&sid=a211&spx=%2F#🇩🇪PremiumFrankfurt3_1Gbps
+
+vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340/?type=tcp&encryption=none&security=reality&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&fp=chrome&sni=www.sony.com&sid=4830d187&spx=%2F#🇫🇷PremiumParis5_1Gbps
 
