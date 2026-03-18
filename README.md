@@ -2,12 +2,13 @@ Happ — кроссплатформенное приложение для удо
 
 Subscription:
 
-https://is.gd/alexblessq
+https://raw.githubusercontent.com/alexblessq/free-vpn-subscription-for-happ/refs/heads/main/subscription-keys
 
 
 QR:
 
-<img width="250" height="250" alt="19ae7fc6b45efd171d71b19589ec8c5b" src="https://github.com/user-attachments/assets/adead567-5bd0-46b2-b339-76d270781dc7" />
+<img width="250" height="250" alt="3eab0f918692a5f0c8d822d6f88f7f14" src="https://github.com/user-attachments/assets/35944204-fb72-4e79-a765-3c1ac3bc835c" />
+
 
 
 
