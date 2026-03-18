@@ -1,5 +1,7 @@
 Happ — кроссплатформенное приложение для удобной работы с прокси-серверами. Построенное на базе мощного ядра Xray.
 
+https://www.happ.su/main
+
 Subscription:
 
 https://raw.githubusercontent.com/alexblessq/free-vpn-subscription-for-happ/refs/heads/main/subscription-keys
