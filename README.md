@@ -6,12 +6,13 @@ https://www.happ.su/main
 
 Subscription:
 
-https://raw.githubusercontent.com/alexblessq/free-vpn-subscription-for-happ/refs/heads/main/subscription-keys
+https://2g.tel/alexblessq
 
 
 QR:
 
-<img width="200" height="200" alt="14c23b25c8c812df98aa07d5180a35f4" src="https://github.com/user-attachments/assets/d233c274-1b6d-4a2f-a922-e2405efb7883" />
+<img width="200" height="200" alt="da1cdf62ccc6b32491759240da216c8a" src="https://github.com/user-attachments/assets/9e5896e9-b8c0-4705-9242-c43239822c18" />
+
 
 
 
