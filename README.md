@@ -1,6 +1,6 @@
 🔄 Update 19/03/2026
 
-🛜 Happ — кроссплатформенное приложение для удобной работы с прокси-серверами. 
+🛜 Happ is a cross-platform application for convenient work with proxy servers.
 
 ➡️ https://www.happ.su/main
 
