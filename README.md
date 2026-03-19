@@ -11,7 +11,8 @@ https://raw.githubusercontent.com/alexblessq/free-vpn-subscription-for-happ/refs
 
 QR:
 
-<img width="250" height="250" alt="c3d450062f0ec3c0e2b9f6ae32eabbaf" src="https://github.com/user-attachments/assets/a60cc71f-7be3-4419-a3a2-efda3eaa027b" />
+<img width="200" height="200" alt="14c23b25c8c812df98aa07d5180a35f4" src="https://github.com/user-attachments/assets/d233c274-1b6d-4a2f-a922-e2405efb7883" />
+
 
 
 
