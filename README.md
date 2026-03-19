@@ -1,9 +1,5 @@
 🔄 Update 19/03/2026
 
-🛜 Happ is a cross-platform application for convenient work with proxy servers.
-
-➡️ https://www.happ.su/main
-
 ⬇️ Subscription for — Happ.
 
 ➡️ https://2g.tel/alexblessq
