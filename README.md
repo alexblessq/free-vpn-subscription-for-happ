@@ -2,7 +2,7 @@
 
 ⬇️Subscription for — Happ
 
-➡️https://raw.githubusercontent.com/alexblessq/free-vpn-subscription-for-happ/refs/heads/main/subscription-keys
+https://raw.githubusercontent.com/alexblessq/free-vpn-subscription-for-happ/refs/heads/main/subscription-keys
 
 ⬇️QR for — Happ
 
