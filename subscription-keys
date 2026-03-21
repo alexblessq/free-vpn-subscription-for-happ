@@ -2,6 +2,6 @@ vless://9c51167b-4bc2-408f-9121-bc1ef313478e@147.45.162.209:56721?flow=xtls-rprx
 
 vless://93564fa0-59f4-48c3-8bfe-83e9e1fdd745@51.250.118.243:6443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-x5&fp=firefox&sni=ads.x5.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇸🇪🛜Sweden
 
-vless://42fc15d6-1eed-4013-a4c9-3e77915fb817@152.89.244.201:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=1afc9d750da1ba88#🇫🇮🛜Finland
+vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340/?type=tcp&encryption=none&security=reality&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&fp=chrome&sni=www.sony.com&sid=4830d187&spx=%2F#🇫🇮🛜Finland
 
 vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@172.64.33.217:443?encryption=none&type=ws&security=tls&path=%2Ftixvuws&host=vangoghhh.info&sni=vangoghhh.info#🇩🇪🛜Germany
