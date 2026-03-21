@@ -1,7 +1,5 @@
 vless://9c51167b-4bc2-408f-9121-bc1ef313478e@147.45.162.209:56721?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=bynco.com&pbk=2v65tFsCE7sFK8SzYs34x5kH3cUVLNERmP7ZrRmoWCc&sid=b259f48a&spx=/#🇳🇱🛜The Netherlands
 
-vless://b78bd037-8dae-4b63-9d01-97117d502588@144.124.248.181:31310/?type=tcp&encryption=none&security=reality&pbk=_DcYJZrSUx3ltgXtLN1uWbQyurZ2G0okuMYvOm1j9Ss&fp=chrome&sni=aws.amazon.com&sid=d80997ce8c121d7f&spx=%2F#🇳🇱🛜The Netherlands 2
-
 vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.146.138:443?encryption=none&type=ws&security=tls&path=%2F&host=do88.cmddo.ggff.net&sni=do88.cmddo.ggff.net#🇸🇪🛜Sweden
 
-vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340/?type=tcp&encryption=none&security=reality&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&fp=chrome&sni=www.sony.com&sid=4830d187&spx=%2F#🇫🇮🛜Finland
+vless://42fc15d6-1eed-4013-a4c9-3e77915fb817@152.89.244.201:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=1afc9d750da1ba88#🇫🇮🛜Finland
