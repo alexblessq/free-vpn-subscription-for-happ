@@ -1,6 +1,6 @@
 vless://9c51167b-4bc2-408f-9121-bc1ef313478e@147.45.162.209:56721?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=bynco.com&pbk=2v65tFsCE7sFK8SzYs34x5kH3cUVLNERmP7ZrRmoWCc&sid=b259f48a&spx=/#🇳🇱🛜The Netherlands
 
-vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.146.138:443?encryption=none&type=ws&security=tls&path=%2F&host=do88.cmddo.ggff.net&sni=do88.cmddo.ggff.net#🇸🇪🛜Sweden
+vless://93564fa0-59f4-48c3-8bfe-83e9e1fdd745@51.250.118.243:6443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc-x5&fp=firefox&sni=ads.x5.ru&pbk=XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM&sid=abcdef0123456789#🇸🇪🛜Sweden
 
 vless://42fc15d6-1eed-4013-a4c9-3e77915fb817@152.89.244.201:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&sid=1afc9d750da1ba88#🇫🇮🛜Finland
 
