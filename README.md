@@ -6,7 +6,8 @@
 
 ⬇️ QR for — Happ
 
-<img width="200" height="200" alt="cde3893799c0173936a2ece6ffef5dd2" src="https://github.com/user-attachments/assets/228b915a-acc0-47fd-95d3-34e226f27983" />
+<img width="200" height="200" alt="021dd479705e986f1a267273cf6bb3ec" src="https://github.com/user-attachments/assets/29f8f101-d5ad-423e-83b7-6f13a687090e" />
+
 
 
 
